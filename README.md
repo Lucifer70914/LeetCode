@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Stack
 |  |
 | ------- |
