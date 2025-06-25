@@ -22,7 +22,7 @@ class Solution {
             } else if (a < 0) {
                 count += countNeg(a, nums2, x);
             } else {
-                // a == 0, product is 0
+                
                 if (x >= 0) count += nums2.length;
             }
         }
