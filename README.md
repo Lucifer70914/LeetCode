@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
