@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/0013-roman-to-integer) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Lucifer70914/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Lucifer70914/LeetCode/tree/master/0020-valid-parentheses) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
