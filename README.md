@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Stack
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lucifer70914/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 <!---LeetCode Topics End-->
