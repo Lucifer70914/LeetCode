@@ -2,35 +2,32 @@ import java.util.*;
 
 class Solution {
     public int maxValue(int[][] events, int k) {
-        Arrays.sort(events, Comparator.comparingInt(a -> a[0]));
+        Arrays.sort(events, Comparator.comparingInt(a -> a[1]));
         int n = events.length;
-        Integer[][] memo = new Integer[n][k + 1];
-        int[] startTimes = new int[n];
-        for (int i = 0; i < n; i++) startTimes[i] = events[i][0];
+        int[][] dp = new int[n + 1][k + 1];
 
-        return dfs(0, k, events, memo, startTimes);
-    }
-
-    private int dfs(int index, int k, int[][] events, Integer[][] memo, int[] startTimes) {
-        if (index == events.length || k == 0) return 0;
-        if (memo[index][k] != null) return memo[index][k];
-        int skip = dfs(index + 1, k, events, memo, startTimes);
-        int nextIndex = findNext(events, index, startTimes);
-        int take = events[index][2] + dfs(nextIndex, k - 1, events, memo, startTimes);
-
-        return memo[index][k] = Math.max(skip, take);
-    }
-
-    private int findNext(int[][] events, int curr, int[] startTimes) {
-        int lo = curr + 1, hi = events.length;
-        int target = events[curr][1];
-
-        while (lo < hi) {
-            int mid = (lo + hi) / 2;
-            if (startTimes[mid] > target) hi = mid;
-            else lo = mid + 1;
+        for (int i = 1; i <= n; i++) {
+            int[] curr = events[i - 1];
+            int prev = binarySearch(events, curr[0], i - 1);
+            for (int j = 1; j <= k; j++) {
+                dp[i][j] = Math.max(dp[i - 1][j], dp[prev + 1][j - 1] + curr[2]);
+            }
         }
 
-        return lo;
+        return dp[n][k];
+    }
+
+    private int binarySearch(int[][] events, int start, int hi) {
+        int lo = 0, res = -1;
+        while (lo <= hi) {
+            int mid = (lo + hi) / 2;
+            if (events[mid][1] < start) {
+                res = mid;
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;
+            }
+        }
+        return res;
     }
 }
