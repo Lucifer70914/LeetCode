@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Lucifer70914/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Lucifer70914/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lucifer70914/LeetCode/tree/master/0020-valid-parentheses) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Lucifer70914/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lucifer70914/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
