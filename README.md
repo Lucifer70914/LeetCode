@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -94,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Lucifer70914/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
