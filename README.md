@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Lucifer70914/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucifer70914/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
