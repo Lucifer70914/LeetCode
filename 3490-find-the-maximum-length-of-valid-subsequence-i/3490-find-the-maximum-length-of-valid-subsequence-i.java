@@ -13,39 +13,37 @@ class Solution {
         
         int maxUniform = Math.max(evenCount, oddCount);
         
-        int maxAlternating1 = 0; // starts with even
+        int maxAlternating = 0;
         int current = 0; // 0 for even, 1 for odd
+        int count = 0;
+        
+        // Case 1: Start with even
+        current = 0;
+        count = 0;
         for (int num : nums) {
-            if (current == 0) {
-                if (num % 2 == 0) {
-                    maxAlternating1++;
-                    current = 1;
-                }
-            } else {
-                if (num % 2 != 0) {
-                    maxAlternating1++;
-                    current = 0;
-                }
+            if (current == 0 && num % 2 == 0) {
+                count++;
+                current = 1;
+            } else if (current == 1 && num % 2 != 0) {
+                count++;
+                current = 0;
             }
         }
+        maxAlternating = Math.max(maxAlternating, count);
         
-        int maxAlternating2 = 0; // starts with odd
+        // Case 2: Start with odd
         current = 1;
+        count = 0;
         for (int num : nums) {
-            if (current == 1) {
-                if (num % 2 != 0) {
-                    maxAlternating2++;
-                    current = 0;
-                }
-            } else {
-                if (num % 2 == 0) {
-                    maxAlternating2++;
-                    current = 1;
-                }
+            if (current == 1 && num % 2 != 0) {
+                count++;
+                current = 0;
+            } else if (current == 0 && num % 2 == 0) {
+                count++;
+                current = 1;
             }
         }
-        
-        int maxAlternating = Math.max(maxAlternating1, maxAlternating2);
+        maxAlternating = Math.max(maxAlternating, count);
         
         return Math.max(maxUniform, maxAlternating);
     }
