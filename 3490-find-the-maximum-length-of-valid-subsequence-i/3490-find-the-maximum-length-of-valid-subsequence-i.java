@@ -14,10 +14,9 @@ class Solution {
         int maxUniform = Math.max(evenCount, oddCount);
         
         int maxAlternating = 0;
-        int current = 0; // 0 for even, 1 for odd
+        int current = 0; 
         int count = 0;
         
-        // Case 1: Start with even
         current = 0;
         count = 0;
         for (int num : nums) {
@@ -31,7 +30,6 @@ class Solution {
         }
         maxAlternating = Math.max(maxAlternating, count);
         
-        // Case 2: Start with odd
         current = 1;
         count = 0;
         for (int num : nums) {
