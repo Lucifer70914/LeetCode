@@ -3,8 +3,8 @@ class Solution {
         char[] chars = s.toCharArray();
         int n = s.length();
 
-        int index = 1;  // Index for writing result in-place
-        int count = 1;  // Track repetition count
+        int index = 1; 
+        int count = 1; 
 
         for (int i = 1; i < n; i++) {
             if (chars[i] == chars[i - 1]) {
