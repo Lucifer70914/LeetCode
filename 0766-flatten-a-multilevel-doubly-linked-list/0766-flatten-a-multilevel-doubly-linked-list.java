@@ -1,37 +1,33 @@
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public Node prev;
-    public Node next;
-    public Node child;
-};
-*/
-
 class Solution {
     public Node flatten(Node head) {
-        Node temp=head;
-        while(temp!=null)
-        {
-            Node t=temp.next;
-            if(temp.child!=null)
-            {
-                Node c=flatten(temp.child);
-                temp.next=c;
-                c.prev=temp;
-                while(c.next!=null)
-                {
-                    c=c.next;
-                }
-                c.next=t;
-                if(t!=null)
-                t.prev=c;
-            }
-            temp.child=null;
-            temp=t;
+        if (head == null) return head;
 
+        Stack<Node> stack = new Stack<>();
+        Node current = head;
+
+        while (current != null) {
+            if (current.child != null) {
+                // If next exists, push it to the stack to connect later
+                if (current.next != null) {
+                    stack.push(current.next);
+                }
+
+                // Connect current with child
+                current.next = current.child;
+                current.child.prev = current;
+                current.child = null;
+            }
+
+            // If no next node and stack is not empty, pop and connect
+            if (current.next == null && !stack.isEmpty()) {
+                Node nextNode = stack.pop();
+                current.next = nextNode;
+                nextNode.prev = current;
+            }
+
+            current = current.next;
         }
+
         return head;
-        
     }
 }
