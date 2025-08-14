@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lucifer70914/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Lucifer70914/LeetCode/tree/master/0067-add-binary) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Lucifer70914/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Lucifer70914/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/Lucifer70914/LeetCode/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
