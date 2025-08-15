@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Lucifer70914/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Lucifer70914/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Lucifer70914/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Lucifer70914/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Lucifer70914/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Lucifer70914/LeetCode/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Lucifer70914/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Lucifer70914/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lucifer70914/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
