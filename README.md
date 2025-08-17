@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucifer70914/LeetCode/tree/master/0020-valid-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Lucifer70914/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Lucifer70914/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Lucifer70914/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
