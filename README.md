@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lucifer70914/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucifer70914/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lucifer70914/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Lucifer70914/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Lucifer70914/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Lucifer70914/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Lucifer70914/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lucifer70914/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lucifer70914/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Math
