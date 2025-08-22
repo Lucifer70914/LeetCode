@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lucifer70914/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Lucifer70914/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Lucifer70914/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Lucifer70914/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Lucifer70914/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Lucifer70914/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Shortest Path
 |  |
 | ------- |
