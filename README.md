@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lucifer70914/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lucifer70914/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Lucifer70914/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Lucifer70914/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lucifer70914/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lucifer70914/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucifer70914/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Lucifer70914/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lucifer70914/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Lucifer70914/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Breadth-First Search
 |  |
