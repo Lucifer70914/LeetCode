@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Lucifer70914/LeetCode/tree/master/1448-maximum-69-number) |
+| [2396-strictly-palindromic-number](https://github.com/Lucifer70914/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Lucifer70914/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lucifer70914/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Lucifer70914/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lucifer70914/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Lucifer70914/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
