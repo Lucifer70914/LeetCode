@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lucifer70914/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lucifer70914/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Lucifer70914/LeetCode/tree/master/0792-binary-search) |
+| [1390-four-divisors](https://github.com/Lucifer70914/LeetCode/tree/master/1390-four-divisors) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lucifer70914/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lucifer70914/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Lucifer70914/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Lucifer70914/LeetCode/tree/master/0342-power-of-four) |
+| [1390-four-divisors](https://github.com/Lucifer70914/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lucifer70914/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Lucifer70914/LeetCode/tree/master/1448-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/Lucifer70914/LeetCode/tree/master/2396-strictly-palindromic-number) |
