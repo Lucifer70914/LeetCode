@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Lucifer70914/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Lucifer70914/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1975-maximum-matrix-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Lucifer70914/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2262-solving-questions-with-brainpower](https://github.com/Lucifer70914/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Lucifer70914/LeetCode/tree/master/0134-gas-station) |
 | [1448-maximum-69-number](https://github.com/Lucifer70914/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Lucifer70914/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1975-maximum-matrix-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Lucifer70914/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Lucifer70914/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lucifer70914/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lucifer70914/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1975-maximum-matrix-sum](https://github.com/Lucifer70914/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Lucifer70914/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Lucifer70914/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
