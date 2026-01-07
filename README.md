@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Lucifer70914/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -306,8 +307,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lucifer70914/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
